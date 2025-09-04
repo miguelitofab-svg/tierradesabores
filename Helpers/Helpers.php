@@ -1,5 +1,5 @@
 <?php 
-    const base_url = 'http://localhost/pagweb/';
+    const base_url = 'https://miguelitofab-svg.github.io/tierradesabores/';
     const telcel = "62345076";
     const correo = "tierradesabores@zambrana.com";
     const lugar = "El Alto - Bolivia";
@@ -44,4 +44,5 @@
         return lugar;
      }
     
+
 ?>
